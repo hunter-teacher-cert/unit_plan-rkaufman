@@ -1,15 +1,17 @@
-# UNIT PLAN NAME
-by TEAM MEMBERS
+# Writing and Implementing Methods (Abstraction) in Java
+by Rachel Kaufman
 
 -----
 
 ### General Overview
-(include here description of unit, what class(es) it fits into, when...)
+This unit will cover the creation and usage of methods in Java, including why they are important & useful, how to access them, and how to make methods that may be usable in a variety of programs. It will fit after students have learned Java fundamentals.
 
 ---
 
 ### Motivation for Unit
-(why have you decided to make this?)
+- Help students develop a library of useful functions that can carry through the rest of their work
+- Encourages modularity
+- I found it confusing!
 
 ---
 
