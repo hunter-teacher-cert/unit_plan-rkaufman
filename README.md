@@ -4,7 +4,7 @@ by Rachel Kaufman
 -----
 
 ### General Overview
-This unit will cover the creation and usage of methods in Java, including why they are important & useful, how to access them, and how to make methods that may be usable in a variety of programs. It will fit after students have learned Java fundamentals.
+This unit will cover the creation and usage of methods in Java, including why they are important & useful, how to access them, and how to make methods that may be usable in a variety of programs. This unit is for a year-long AP CSA course. It will fit after students have learned Java fundamentals.
 
 ---
 
