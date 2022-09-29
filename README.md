@@ -9,8 +9,9 @@ This unit will cover the creation and usage of methods in Java, including why th
 ---
 
 ### Motivation for Unit
-- Help students develop a library of useful functions that can carry through the rest of their work
-- Encourages modularity
+- Abstraction is a core CS concept
+- Help students develop a library of useful functions that can carry through the rest of their work (encourages modularity)
+- Help students break down a larger problem into smaller more manageable pieces
 - I found it confusing!
 
 ---
