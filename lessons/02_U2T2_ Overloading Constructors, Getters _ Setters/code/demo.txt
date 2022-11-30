@@ -1,0 +1,33 @@
+let's make a Bike class
+
+- private isntance variables
+
+- constructor -- how do we know how to name the constructor?
+
+- this.model = model (this keyword)
+
+- add a bikeInfo method
+
+- overloaded constructors -- more than two ways to create a Bike!
+
+- make threes bikes then print them out!
+
+WHAT IF WE WANT TO SAY WHICH BIKE HAS MORE SPEED?
+
+we need a way to get the speed stored on each Bike object...
+
+we COULD make instance variables public... (show this)
+
+BUT WE DON'T - data encapsulation!
+
+we use GETTER methods!  methods that return the instance variable's value
+
+add getter methods
+
+what if we made a type and want to change a Bike's model?
+
+if they were public we could set, but again we don't do this
+
+SETTER METHOD!  void method used to set
+
+show results of setting
