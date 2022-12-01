@@ -1,0 +1,10 @@
+Unit 1 Topic 5: Casting & Ranges of Variables
+Aim:  What is "casting" and how do we do it in Java?
+
+Agenda:
+- Warm Up
+- Examples of Casting
+- U1T5 Lab 1 (due next class)
+
+No homework:
+Complete lab from today if not completed in class.

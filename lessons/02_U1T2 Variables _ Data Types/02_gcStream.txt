@@ -1,0 +1,9 @@
+Unit 1 Topic 2: Variables & Data Types
+Aim:  How do we create and use variables of different data types in Java?
+
+Agenda:
+- Demo: Data Types & Variables
+- U1L2 Lab
+
+Homework (due by start of class tomorrow):
+Complete and submit U1L2 if you didn't quite finish in class.

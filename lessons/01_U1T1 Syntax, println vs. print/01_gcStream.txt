@@ -1,0 +1,10 @@
+Unit 1 Topic 1: Java syntax, comments, print vs. println
+Aim:  What syntax rules are enforced by Java and how are print and println different?
+
+Agenda:
+- Do Now
+- Demo: Java syntax and errors
+- U1L1 Lab
+
+Homework (due by start of class tomorrow):
+Complete and submit U1L1 if you didn't quite finish in class.

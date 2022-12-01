@@ -1,0 +1,8 @@
+Unit 1 Topic 3: Expressions & Assignment Statements
+Aim:  How do we simplify and write code using expressions?
+
+Agenda:
+- Class Discussion
+- U1L3 Lab (due Friday)
+
+No homework

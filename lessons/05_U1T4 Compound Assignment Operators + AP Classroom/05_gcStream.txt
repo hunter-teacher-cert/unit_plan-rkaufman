@@ -1,0 +1,12 @@
+Unit 1 Topic 4: Lab 2: Compound Assignment Operators
+Aim:  How do we use compound assignment and increment/decrement operators in Java?
+
+Agenda:
+- Warm Up
+- Examples of Compound Assignment Operators
+- U1T4 Lab 2 (due next class)
+- U1T1-U1T4 AP Practice Q's (due next class)
+- U1T1-U1T4 AP Practice Q's Corrections (due next class)
+
+No homework:
+Complete lab and AP Practice questions from today if not completed in class.

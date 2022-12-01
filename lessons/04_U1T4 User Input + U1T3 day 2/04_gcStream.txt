@@ -1,0 +1,8 @@
+Unit 1 Topic 4: Working with User Input
+Aim:  How do we obtain typed input (text and numerical values) in a Java program?
+
+Agenda:
+- Warm Up
+- Demo: User Input
+- U1L4 Lab (due next class, Do this first!)
+- Finish U1L3 Lab from previous class (due next class)
