@@ -22,10 +22,11 @@ Additionally, a fundamental skill in any programming language is fluency in use 
 - 2.B Determine the result or output based on statement execution order in a code segment without method calls (other than output)
 - 5.A Describe the behavior of a given segment of program code
 
-1. VAR-1 To find specific solutions to generalize problems, programmers include variables in their code so that the same algorithm runs using different input values
+VAR-1 To find specific solutions to generalize problems, programmers include variables in their code so that the same algorithm runs using different input values
 - VAR-1.B.1-3 Identify the most appropriate data type category for a particular specification
 - VAR-1.C.1-4 Declare variables of the correct types to represent primitive data
-2. CON-1 The way variables and operators are sequenced and combined in an expression determines the computed results
+
+CON-1 The way variables and operators are sequenced and combined in an expression determines the computed results
 - CON-1.A.1-8 Evaluate arithmetic expressions in a program code
 - CON-1.B.1-5 Evaluate what is stored in a variable as a result of an expression with an assignment statement
 - CON-1.C.1-6 Evaluate arithmetic expressions that use casting
@@ -69,6 +70,7 @@ Formative
 1. Labs
 2. Partner Programming Challenge
 3. MCQ Practice Questions
+
 Summative
 1. AP Style MCQ Quiz
 2. Tip Calculator Project
