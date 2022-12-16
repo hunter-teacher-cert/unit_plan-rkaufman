@@ -36,10 +36,10 @@ CON-1 The way variables and operators are sequenced and combined in an expressio
 ---
 
 ### Tools Used
-1. Java
-2. repl.it
-3. information slides
-4. lab documents
+1. Java - programming language
+2. repl.it - programming environment
+3. information slides - developed as LPs and guides for students with essential information
+4. lab documents - prompts and exercises for student practice + formative assessments
 
 ---
 
